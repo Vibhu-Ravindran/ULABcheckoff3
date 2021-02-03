@@ -1,0 +1,1 @@
+Git remote lets you manage your remote repositories.
